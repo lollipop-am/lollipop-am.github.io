@@ -1,7 +1,23 @@
 .caption {
   font-family: 'Dancing+Script', cursive;
-  font-size: 64px;
+  font-size: 58px;
   color: crimson;
+}
+
+.secondary {
+  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+  font-size: 18px;
+  color: dimgrey;
+}
+
+.keyword {
+  color: crimson;
+}
+
+p {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: dimgrey;
 }
 
 .rainbow {

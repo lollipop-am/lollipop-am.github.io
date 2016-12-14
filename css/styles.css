@@ -1,6 +1,9 @@
 body {
   background-color:#eee;
 }
+img {
+  max-width:100%;
+}
 .caption {
   font-family: 'Dancing+Script', cursive;
   font-size: 58px;
